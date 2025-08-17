@@ -101,7 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["rustdesk.tuwh.pw"];
-pub const RS_PUB_KEY: &str = "najFK9BCBdQezlc6t7R+vnv8TXA6kX2Io5jKF6Nuxkw=";
+pub const RS_PUB_KEY: &str = "owbn7Y6V0zKbeeCXar8ru6AP7gzGszZLqU0QP6gYYWc=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
